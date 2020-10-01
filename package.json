@@ -1,0 +1,17 @@
+{
+  "name": "crud_with_node_and_mysql",
+  "version": "1.0.0",
+  "description": "Create read update and delete users from mysql database",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Shashank Yadav M",
+  "license": "ISC"
+}
